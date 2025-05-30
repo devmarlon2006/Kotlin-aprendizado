@@ -12,7 +12,7 @@ fun mutaveis (){
 
 fun imutaveis() {
     val numero2: Int = 10
-    //numero2 = 20
+    //numero2 = 20  (ao tentar alterar ira gerar um erro se sitax)
     println(numero2)
 }
 
